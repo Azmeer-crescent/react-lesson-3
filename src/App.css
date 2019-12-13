@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+button{
+  padding:5px;
+  margin: 10px;
+}
+
+h3{
+  font-family: 'Roboto Slab', serif;
+}
