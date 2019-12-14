@@ -1,7 +1,7 @@
 import React from 'react';
-import './App.css';
+import '../App.css';
 import { useSelector, useDispatch } from "react-redux";
-import { updateCounter } from "./actions";
+import { updateCounter } from "../actions";
 
 var localCount = 0;
 

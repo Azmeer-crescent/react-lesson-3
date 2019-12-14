@@ -2,8 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import Component1 from './Component1';
-import Component2 from './Component2';
+import { Component1, Component2, Component3, Component4 } from './components';
 import { Route, BrowserRouter as Router } from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 
@@ -23,6 +22,8 @@ const routing = (
         <Route path="/" component={App} />
         <Route path="/Component1" component={Component1} />
         <Route path="/Component2" component={Component2} />
+        <Route path="/Component3" component={Component3} />
+        <Route path="/Component4" component={Component4} />
       </div>
     </Router>
   </Provider>

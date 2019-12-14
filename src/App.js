@@ -16,6 +16,8 @@ function App() {
         
         <button onClick={() => history.push('/Component1')}>Goto Component 1</button>
         <button onClick={() => history.push('/Component2')}>Goto Component 2</button>
+        <button onClick={() => history.push('/Component3')}>Goto Component 3</button>
+        <button onClick={() => history.push('/Component4')}>Goto Component 4</button>
         <hr />
     </div>
   );
