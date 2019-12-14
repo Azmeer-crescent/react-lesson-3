@@ -9,18 +9,6 @@ requires following:
 
 `npm install redux-thunk`
 
-## Lesson 1 - Components and Props
-
-1. Download the zip file
-
-2. UNZIP to a folder
-
-3. CD to folder
-
-`npm install`
-
-`npm start`
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
